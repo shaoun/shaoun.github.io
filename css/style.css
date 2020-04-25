@@ -241,7 +241,7 @@ body:after {
   .ul-check.success li:before {
     color: #71bc42; }
   .ul-check.primary li:before {
-    color: #007bff; }
+    color: #004D56; }
   .ul-check li.remove {
     text-decoration: line-through;
     color: #dee2e6; }
@@ -368,7 +368,7 @@ body:after {
             left: 100%;
             top: 0; }
       .site-navbar .site-navigation .site-menu .has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children:focus > a, .site-navbar .site-navigation .site-menu .has-children:active > a {
-        color: #007bff; }
+        color: #004D56; }
       .site-navbar .site-navigation .site-menu .has-children:hover, .site-navbar .site-navigation .site-menu .has-children:focus, .site-navbar .site-navigation .site-menu .has-children:active {
         cursor: pointer; }
         .site-navbar .site-navigation .site-menu .has-children:hover > .dropdown, .site-navbar .site-navigation .site-menu .has-children:focus > .dropdown, .site-navbar .site-navigation .site-menu .has-children:active > .dropdown {
@@ -948,7 +948,7 @@ body:after {
   color: #999999; }
 
 .block-25 ul li a .meta {
-  color: #007bff; }
+  color: #004D56; }
 
 .block-25 ul li a:hover img {
   opacity: .5; }
@@ -1347,7 +1347,7 @@ body:after {
     .popular-category:hover .icon {
       color: #fff; }
     .popular-category:hover .number {
-      background: #006fe6;
+      background: #004d56;
       color: #fff; }
 
 @media (max-width: 1199.98px) {
@@ -1428,7 +1428,7 @@ body:after {
         color: #fff; }
 
 .accordion-item[aria-expanded="true"] {
-  color: #007bff; }
+  color: #004d56; }
 
 .social-media {
   display: inline-block;
@@ -1572,7 +1572,7 @@ body:after {
 
 .section-sub-title {
   font-size: 13px;
-  color: #007bff;
+  color: #004D56;
   letter-spacing: .2em;
   text-transform: uppercase; }
 
@@ -1786,7 +1786,7 @@ body:after {
   color: #343a40; }
   .filters .btn:hover {
     border-color: transparent;
-    background: #007bff;
+    background: #004D56;
     color: #fff; }
   .filters .btn.active {
     background: #004D56 !important;
